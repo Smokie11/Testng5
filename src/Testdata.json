@@ -1,0 +1,6 @@
+[{"users":{"result":"fail","password":"pass@143","username":"mp003"}},
+{"users":{"result":"fail","password":"xvz","username":"doe@abc.com"}},
+{"users":{"result":"fail","password":"wwww","username":"mp001"}},
+{"users":{"result":"fail","password":"pass@123","username":"mp02"}},
+{"users":{"result":"fail","password":"pass@3","username":"mp0121"}},
+{"users":{"result":"pass","password":"pass@123","username":"mp001"}}]
