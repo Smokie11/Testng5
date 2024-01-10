@@ -47,6 +47,7 @@ public class BaseClass {
 		WebDriverManager.chromedriver().setup();
 
 		driver = new ChromeDriver();
+driver.close();
 
 	}
 
